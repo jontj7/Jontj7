@@ -27,7 +27,7 @@
 </p>
 
 
-## 🎮 Contributions
+##  Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jontj7/jontj7/output/pacman-contribution-graph-dark.svg">
@@ -39,9 +39,7 @@
 ---
 
 
-
----
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 <div align="left">
@@ -79,7 +77,7 @@
   <!-- Runtime -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 </div>
-
+<img width="12"/>
 
 - RESTful APIs  
 - MVC Architecture  
@@ -112,38 +110,95 @@
 
 ---
 
-## ⭐ Featured Project
+##  Featured Projects
 
-### 🌱 EcoSostenible Platform
-An interactive educational platform focused on environmental sustainability.
+<table width="100%" cellspacing="24">
+<tr>
 
-**What I worked on:**
-- Responsive UI with Tailwind CSS  
-- Reusable components and animations  
-- MVC architecture with Laravel  
+<!-- EcoSostenible -->
+<td width="50%" valign="top" align="center">
+<h3>EcoSostenible</h3>
 
-**Tech Stack:**  
-Laravel · Blade · Tailwind CSS · JavaScript · HTML5  
+<p>
+Educational platform focused on <strong>environmental sustainability</strong>, built with a clean UI and a structured backend architecture.
+</p>
 
-🔗 Repository: https://github.com/jontj7
+<hr/>
+
+<strong>Highlights</strong>
+<ul align="left">
+  <li>Responsive UI with Tailwind CSS</li>
+  <li>MVC architecture using Laravel</li>
+  <li>Reusable components and subtle animations</li>
+</ul>
+
+<strong>Tech Stack</strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26"/>
+
+<br/><br/>
+https://github.com/jontj7/EcoSostenible
+
+</td>
+
+<!-- CodeBook -->
+<td width="50%" valign="top" align="center">
+<h3>CodeBook</h3>
+
+<p>
+Personal productivity project for organizing and managing <strong>code snippets and notes</strong>, focused on clean structure and usability.
+</p>
+
+<hr/>
+
+<strong>Highlights</strong>
+<ul align="left">
+  <li>Clean and intuitive interface</li>
+  <li>Modular and scalable structure</li>
+  <li>Built with developer productivity in mind</li>
+</ul>
+
+<strong>Tech Stack</strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26"/>
+
+<br/><br/>
+ https://github.com/jontj7/CodeBook
+
+</td>
+
+</tr>
+</table>
+
+---
+## Currently Growing
+
+- **Real-world collaboration** — contributing to real projects and distributed teams
+- **Mentorship-driven learning** — working closely with experienced developers and adopting industry best practices
+- **Architecture & APIs** — improving backend design, API structure, and clean code principles
+- **Problem-solving** — strengthening analytical thinking through practical challenges
+
 
 ---
 
-## 📌 What I’m Improving Right Now
+## Let’s Connect
 
-- Advanced JavaScript & React patterns  
-- Backend best practices  
-- Clean Architecture  
-- Better Git workflows and commits  
+<p align="center">
+  <a href="mailto:jont_martinez@outlook.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftoutlook.svg" height="34" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jonathan-martinez-23324413a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jontj7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" />
+  </a>
+</p>
 
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: **jont_martinez@outlook.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/jonathan-martinez-23324413a/  
-- 🐙 GitHub: https://github.com/jontj7  
-
----
-
-> “Consistency beats talent when talent doesn’t practice.”
