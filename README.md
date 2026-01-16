@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Junior Full Stack Developer</strong><br/>
+  <strong> Full Stack Developer</strong><br/>
 </p>
 
 <p align="center">
